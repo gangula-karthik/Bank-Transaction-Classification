@@ -2,7 +2,7 @@
 Welcome to my project on bank transaction classification! This project aims to classify bank purchases into different categories such as entertainment, food and drinks, taxes, and more. 📊
 
 ## Overview ℹ️
-This project marks my very first venture into machine learning, and let's just say, it wasn't my finest hour. 😅 However, I've decided to give it another go, revamping the code to hopefully yield better performance. 💻
+This project was my very first venture into machine learning, and let's just say, it wasn't my finest hour. 😅 However, I've decided to give it another go 2 years later, revamping the code to hopefully yield better performance. 💻
 
 ## Approach 🛠️
 Utilizing the transaction description column, I employed text classification techniques to categorize bank purchases. 📝 This involved leveraging word embeddings generated through word2vec and deploying various machine learning models for accurate predictions. 🤖 Due to the multitude of classes, I had to group some together, but I'm eyeing a multi-label text classification approach for future improvements. 🌟
